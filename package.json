@@ -1,0 +1,9 @@
+{
+  "name": "dtf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token-swap": "^0.1.3"
+  }
+}
