@@ -1,0 +1,2 @@
+brownie
+git+https://github.com/vyperlang/titanoboa
